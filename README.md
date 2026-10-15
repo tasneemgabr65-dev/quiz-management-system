@@ -15,7 +15,7 @@ A console-based quiz application written in C++, with separate admin and student
 - STL: `vector`, `shuffle`
 
 ## How to run
-1. Compile: `g++ quiz application.cpp -o quiz`
+1. Compile: `g++ "quiz application.cpp" -o quiz`
 2. Run: `./quiz` (on Windows: `quiz.exe`)
 3. Choose 1 for Admin or 2 for Student.
 
